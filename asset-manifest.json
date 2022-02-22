@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-pizzaFeedback/static/css/main.18bc0e4f.css",
+    "main.js": "/test-pizzaFeedback/static/js/main.73eecc62.js",
+    "index.html": "/test-pizzaFeedback/index.html",
+    "main.18bc0e4f.css.map": "/test-pizzaFeedback/static/css/main.18bc0e4f.css.map",
+    "main.73eecc62.js.map": "/test-pizzaFeedback/static/js/main.73eecc62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18bc0e4f.css",
+    "static/js/main.73eecc62.js"
+  ]
+}
